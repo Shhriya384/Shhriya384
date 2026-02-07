@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Perugu Shriya</h1>
 <h3 align="center">
-🚀 A passionate B.Tech CSE (AI & ML) student skilled in AI, ML, Python & Web Technologies
+🌟 A passionate B.Tech CSE (AI & ML) student skilled in AI, ML, Python & Web Technologies
 </h3>
 
 <p align="center">
@@ -8,51 +8,53 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" />
 </p>
 
 ---
 
 ## 🎓 About Me
-- 🎓 **B.Tech in CSE (AI & ML)** | CGPA: **9.28**
-- 🏫 Malla Reddy Engineering College for Women (JNTUH)
-- 💡 Interested in **AI/ML, Python development, and secure software systems**
-- 🌱 Constantly learning and building real-world projects
+- 🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
+- 🏫 Malla Reddy Engineering College for Women (JNTUH), Hyderabad  
+- 📊 **CGPA: 9.28**
+- 💡 Passionate about building **reliable, real-world software systems**
+- 🤝 Strong team player with good communication skills
 
 ---
 
 ## 🔭 Currently Working On
-- **Artificial Intelligence & Machine Learning**
-- **Generative AI**
-- **Data Science fundamentals**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Generative AI**
+- 📊 **Data Science fundamentals**
 
 ---
 
 ## 🌱 Currently Learning
-- **Python, SQL, Java**
-- **Machine Learning & AI concepts**
-- **Problem-solving & DSA basics**
+- 🐍 **Python (Advanced concepts)**
+- 🗄️ **SQL**
+- ☕ **Java (Basics)**
+- 📘 **Core ML algorithms**
 
 ---
 
 ## 👯 Looking to Collaborate On
-- **AI/ML projects**
-- **Python-based applications**
-- **Data-driven problem solving**
+- 🤖 **AI & ML projects**
+- 🐍 **Python-based applications**
+- 📊 **Data-driven problem solving**
 
 ---
 
 ## 🤝 Looking for Help With
-- **Advanced AI/ML concepts**
-- **Real-world project optimization & deployment**
+- 🚀 **Advanced AI/ML concepts**
+- 🧩 **Applying ML models to real-world problems**
 
 ---
 
 ## 💬 Ask Me About
-- **AI & Machine Learning**
-- **Python programming**
-- **Real-world AIML projects**
-- **Medical Image Encryption & Cybersecurity basics**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🐍 **Python programming**
+- 🔐 **Medical Image Encryption**
+- 🌐 **Real-world AIML projects**
 
 ---
 
@@ -74,7 +76,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shhriya384&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shhriya384&show_icons=true&locale=en" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhriya384&layout=compact" height="170"/>
 </p>
 
@@ -101,5 +103,7 @@
 
 ---
 
-📫 **Email:** shriyaperugu123@gmail.com  
-✨ *Always eager to learn, build, and grow as an AIML engineer*
+📫 **How to reach me:**  
+**[shriyaperugu123@gmail.com](mailto:shriyaperugu123@gmail.com)**  
+
+✨ *Aspiring AIML engineer eager to learn, build, and grow*
