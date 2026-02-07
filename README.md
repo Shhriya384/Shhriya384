@@ -19,8 +19,8 @@
 - 📊 **CGPA: 9.28**
 - 💡 Passionate about building **reliable, real-world software systems**
 - 🤝 Strong team player with good communication skills
+- 📫 **How to reach me:** [shriyaperugu123@gmail.com](mailto:shriyaperugu123@gmail.com)
 
----
 
 ## 🔭 Currently Working On
 - 🤖 **Artificial Intelligence & Machine Learning**
