@@ -58,6 +58,52 @@
 
 ---
 
+## 🛠️ Skills & Technology
+**Programming Languages:** Python (Proficient), Java (Basic), C (Basic)  
+**Web Technologies:** HTML, CSS  
+**Databases & Query Language:** SQL  
+**AI & ML:** Artificial Intelligence, Machine Learning  
+**Tools & Platforms:** VS Code, GitHub, OpenCV  
+**Core CS Concepts:** Data Structures, DBMS, OOPs  
+**Soft Skills:** Communication, Teamwork  
+**Languages Known:** English, Telugu, Hindi  
+
+---
+
+## 🚀 Projects
+
+### 🔐 Medical Image Encryption Using Content-Aware DNA Computing
+**Technologies:** Python, OpenCV, Cryptography  
+- Developed a Python-based medical image encryption system using pixel permutation and SHA-based hashing.  
+- Secured grayscale and RGB images with **100% reversible encryption**.  
+- Achieved **sub-1 second encryption/decryption** for images up to 1024×1024.  
+- Implemented a real-time OpenCV GUI for image upload, encryption/decryption, and visual comparison.
+
+### 🌐 IP Masking Detection Using WHOIS and Shodan
+**Technologies:** Python, Network Security, APIs  
+- Built a Python tool to detect masked IPs (VPNs, proxies, anonymizers) using **20+ network attributes**.  
+- Automated identification of data-center and anonymous IPs, reducing manual investigation effort by **60%**.  
+- Generated structured risk reports to support cybersecurity monitoring and fraud detection.
+
+---
+
+## 💼 Internships
+
+### 🤖 Artificial Intelligence Intern — Edunet Foundation  
+**Duration:** May 2025  
+- Completed a **4-week virtual internship** focused on AI applications for sustainability and green technology.  
+- Executed **10+ AI tasks** including data cleaning, feature handling, and basic model implementation.  
+- Developed a mini-project applying AI concepts to a sustainability-focused problem statement.  
+- Gained hands-on experience in dataset handling, model behavior analysis, and result interpretation.
+
+---
+
+## 📜 Certifications
+- 🏅 **Cambridge C1 Level** – Certified in Learning Management  
+- 🏅 **Cisco Networking Academy** – Certified in C and Python  
+- 🏅 **Oracle** – Certified in Generative AI  
+
+
 ## 🛠️ Skills & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
